@@ -11,3 +11,13 @@ D:\mylife\program\data_processing\demo1\obj\Debug\netcoreapp3.1\demo1.csproj.Cor
 D:\mylife\program\data_processing\demo1\obj\Debug\netcoreapp3.1\demo1.dll
 D:\mylife\program\data_processing\demo1\obj\Debug\netcoreapp3.1\demo1.pdb
 D:\mylife\program\data_processing\demo1\obj\Debug\netcoreapp3.1\demo1.genruntimeconfig.cache
+D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\mylife\program\data_processing\demo1\obj\Debug\netcoreapp3.1\demo1.csproj.CopyComplete
