@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lLuymETraQZ1wEtfst6D38iVov+3lLIA7eKJX7+VKAj8oJlOhAuDm2PG3O/PcUOGZbNbt7XktTGraIfPcPHykw==",
+  "dgSpecHash": "gnzGKcGofOuSqn8typbLd+SUQJCtet096/rsC5fnqzE042Sjs9I1zemi8voCogrvhgpSuIaxwsaPrsCL4twt8Q==",
   "success": true,
   "projectFilePath": "D:\\mylife\\program\\data_processing\\demo1\\demo1.csproj",
   "expectedPackageFiles": [
@@ -83,7 +83,14 @@
     "C:\\Users\\mfgdiags1\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\mfgdiags1\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\mfgdiags1\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\mfgdiags1\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\mfgdiags1\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\mfgdiags1\\.nuget\\packages\\xunit\\2.4.1\\xunit.2.4.1.nupkg.sha512",
+    "C:\\Users\\mfgdiags1\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\mfgdiags1\\.nuget\\packages\\xunit.analyzers\\0.10.0\\xunit.analyzers.0.10.0.nupkg.sha512",
+    "C:\\Users\\mfgdiags1\\.nuget\\packages\\xunit.assert\\2.4.1\\xunit.assert.2.4.1.nupkg.sha512",
+    "C:\\Users\\mfgdiags1\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\mfgdiags1\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\mfgdiags1\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512"
   ],
   "logs": []
 }

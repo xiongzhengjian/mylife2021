@@ -21,3 +21,7 @@ D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\runtimes\win\lib
 D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
 D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
 D:\mylife\program\data_processing\demo1\obj\Debug\netcoreapp3.1\demo1.csproj.CopyComplete
+D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\xunit.assert.dll
+D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\xunit.core.dll
+D:\mylife\program\data_processing\demo1\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
